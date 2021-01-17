@@ -3,9 +3,10 @@ Storage of the terraria world file
 
 # To check out the game: 
 Option 1: 
--- git pull to make sure you are on the latest version of the world file
+- git pull to make sure you are on the latest version of the world file.
 Option 2: 
--- go to https://github.com/AbhijeetPande/TerrariaWorld/blob/master/HelloWorld.wld and download the file
+- go to https://github.com/AbhijeetPande/TerrariaWorld/blob/master/HelloWorld.wld and download the file
+
 - replace the "HelloWorld.wld" file under C:\Users\<User name>\Documents\My Games\Terraria\Worlds
 - Launch terraria and select HelloWorld as your world file
 - Optional: send the other player a discord message letting them know that you have checked out the game
